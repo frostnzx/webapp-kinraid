@@ -15,4 +15,4 @@ A web application designed to help you decide what to eat when you're unsure. Ki
 This project was developed during our high school years using basic web development technologies. Given the early stage of our learning, several bugs are expected.
 
 
-![[Pasted image preview.png]]
+![preview image](preview.png)
